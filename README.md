@@ -12,7 +12,7 @@ Eğitmen: Eda Nur Saruhan
 
 SÖZÜM SÖZ, kullanıcının bir uygulamayı açmadan önce kullanım süresine dair kısa bir **söz** vermesini ve sistemin bu sözün tutulma olasılığını geçmiş davranıştan **öğrenerek tahmin etmesini** esas alan yapay zekâ destekli bir özdenetim uygulamasıdır. Sistem, kullanıcıya ulaşılabilir süreler önerir ve gerektiğinde uygun zamanda hatırlatma sunar. Proje, bu yılın **dijital bağımlılık** teması kapsamında yürütülen 18. dönem bitirme projesidir.
 
-Bu depo, **Literatür, Veri ve Teknoloji İncelemesi** teslimini içerir. Rapor üç bölümden oluşur: **(1) Literatür İncelemesi**, **(2) Veri Araştırması** ve **(3) Teknoloji İncelemesi**.
+Bu depo iki teslimi içerir: **Literatür, Veri ve Teknoloji İncelemesi** ile **Kavram Notu ve Uygulama Planı**. Literatür raporu üç bölümden oluşur: **(1) Literatür İncelemesi**, **(2) Veri Araştırması** ve **(3) Teknoloji İncelemesi**. Kavram notu ise projenin genel bakışını, hedeflerini, yöntemini, mimari tasarımını, veri kaynaklarını, zaman planını, kilometre taşlarını ve etik değerlendirmelerini sunar.
 
 ### Veri kaynağı
 
@@ -43,7 +43,7 @@ Python ve pandas (veri hazırlama) · lojistik regresyon / scikit-learn (açıkl
 
 My Word Is My Bond is an AI-assisted self-control app built around a simple idea: before opening an app, the user makes a short **promise** about how long they intend to use it. The system **learns from past behavior** to predict how likely that promise is to be kept, suggests realistic durations, and offers a timely reminder when needed. The project is the Cohort 18 capstone carried out under this year's **digital addiction** theme.
 
-This repository holds the **Literature, Data and Technology Review**. The report has three parts: **(1) Literature Review**, **(2) Data Research** and **(3) Technology Review**.
+This repository holds two deliverables: the **Literature, Data and Technology Review** and the **Concept Note and Implementation Plan**. The review report has three parts: **(1) Literature Review**, **(2) Data Research** and **(3) Technology Review**. The concept note presents the project overview, objectives, methodology, architecture design, data sources, timeline, milestones and ethical considerations.
 
 ### Data source
 
@@ -78,8 +78,9 @@ Python and pandas (data preparation) · logistic regression / scikit-learn (inte
 | `LiteratureReview_MyWordIsMyBond_Group5.docx` | English | Word |
 | `LiteratürTaramasıSÖZÜMSÖZ_Grup5.pdf` | Türkçe | PDF |
 | `LiteratürTaramasıSÖZÜMSÖZ_Grup5.docx` | Türkçe | Word |
+| `Group5_ConceptNoteandImplementationSubmission.docx` | English | Word |
 
-The same four files are also available under `deliverables/`.
+The same files are also available under `deliverables/`.
 
 ## Team / Ekip
 
@@ -92,11 +93,12 @@ The same four files are also available under `deliverables/`.
 
 ```
 SIC_AI_18_Capstone_Group_5/
-├── LiteratureReview_MyWordIsMyBond_Group5.docx   English report (Word)
-├── LiteratureReview_MyWordIsMyBond_Group5.pdf    English report (PDF)
-├── LiteratürTaramasıSÖZÜMSÖZ_Grup5.docx          Türkçe rapor (Word)
-├── LiteratürTaramasıSÖZÜMSÖZ_Grup5.pdf           Türkçe rapor (PDF)
-└── deliverables/                                 same files / aynı dosyalar
+├── LiteratureReview_MyWordIsMyBond_Group5.docx        English review report (Word)
+├── LiteratureReview_MyWordIsMyBond_Group5.pdf         English review report (PDF)
+├── LiteratürTaramasıSÖZÜMSÖZ_Grup5.docx               Türkçe inceleme raporu (Word)
+├── LiteratürTaramasıSÖZÜMSÖZ_Grup5.pdf                Türkçe inceleme raporu (PDF)
+├── Group5_ConceptNoteandImplementationSubmission.docx Concept note & plan (Word)
+└── deliverables/                                      same files / aynı dosyalar
 ```
 
 ## Data and privacy / Veri ve gizlilik
